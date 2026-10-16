@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\obj\Debug\Lab04-4.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\obj\Debug\Lab04_4.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\obj\Debug\Lab04-4.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\obj\Debug\Lab04-4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\bin\Debug\Lab04-4.exe.config
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\bin\Debug\Lab04-4.exe
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\bin\Debug\Lab04-4.pdb
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\obj\Debug\Lab04-4.csproj.Up2Date
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\obj\Debug\Lab04-4.exe
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\obj\Debug\Lab04-4.pdb
+C:\Users\Administrator\source\repos\Lab04\Lab04-4\obj\Debug\Lab04_4.frmDonHang.resources

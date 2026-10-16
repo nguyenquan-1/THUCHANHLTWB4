@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18CF89E3-B410-4695-A265-1E911F1F78B4}|Lab04-4\\Lab04-4.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CF89E3-B410-4695-A265-1E911F1F78B4}|Lab04-4\\Lab04-4.csproj|solutionrelative:lab04-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CF89E3-B410-4695-A265-1E911F1F78B4}|Lab04-4\\Lab04-4.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04-4\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CF89E3-B410-4695-A265-1E911F1F78B4}|Lab04-4\\Lab04-4.csproj|solutionrelative:lab04-4\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CF89E3-B410-4695-A265-1E911F1F78B4}|Lab04-4\\Lab04-4.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04-4\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18CF89E3-B410-4695-A265-1E911F1F78B4}|Lab04-4\\Lab04-4.csproj|solutionrelative:lab04-4\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CF89E3-B410-4695-A265-1E911F1F78B4}|Lab04-4\\Lab04-4.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04-4\\frmdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CF89E3-B410-4695-A265-1E911F1F78B4}|Lab04-4\\Lab04-4.csproj|solutionrelative:lab04-4\\frmdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CF89E3-B410-4695-A265-1E911F1F78B4}|Lab04-4\\Lab04-4.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04-4\\productordermodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{18CF89E3-B410-4695-A265-1E911F1F78B4}|Lab04-4\\Lab04-4.csproj|solutionrelative:lab04-4\\productordermodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04\\frmtimkiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|solutionrelative:lab04\\frmtimkiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04\\frmtimkiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|solutionrelative:lab04\\frmtimkiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04\\frmtimkiemsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|solutionrelative:lab04\\frmtimkiemsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04\\frmfaculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|solutionrelative:lab04\\frmfaculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|solutionrelative:lab04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|solutionrelative:lab04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|solutionrelative:lab04\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|solutionrelative:lab04\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|c:\\users\\administrator\\source\\repos\\lab04\\lab04\\frmfaculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4107489-9C94-47BD-B22E-7CD1142E6E4D}|Lab04\\Lab04.csproj|solutionrelative:lab04\\frmfaculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04-4\\frmDonHang.cs",
+              "RelativeDocumentMoniker": "Lab04-4\\frmDonHang.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04-4\\frmDonHang.cs",
+              "RelativeToolTip": "Lab04-4\\frmDonHang.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:04:03.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDonHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04-4\\frmDonHang.cs",
+              "RelativeDocumentMoniker": "Lab04-4\\frmDonHang.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04-4\\frmDonHang.cs [Design]",
+              "RelativeToolTip": "Lab04-4\\frmDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:48:52.463Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDonHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04-4\\frmDonHang.Designer.cs",
+              "RelativeDocumentMoniker": "Lab04-4\\frmDonHang.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04-4\\frmDonHang.Designer.cs",
+              "RelativeToolTip": "Lab04-4\\frmDonHang.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:04:46.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductOrderModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04-4\\ProductOrderModel.edmx",
+              "RelativeDocumentMoniker": "Lab04-4\\ProductOrderModel.edmx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04-4\\ProductOrderModel.edmx [Diagram1]",
+              "RelativeToolTip": "Lab04-4\\ProductOrderModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-10-16T08:20:13.352Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04-4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab04-4\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04-4\\Program.cs",
+              "RelativeToolTip": "Lab04-4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:11:07.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmTimKiemSV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\frmTimKiemSV.Designer.cs",
+              "RelativeDocumentMoniker": "Lab04\\frmTimKiemSV.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\frmTimKiemSV.Designer.cs",
+              "RelativeToolTip": "Lab04\\frmTimKiemSV.Designer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:27:37.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmTimKiemSV.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\frmTimKiemSV.cs",
+              "RelativeDocumentMoniker": "Lab04\\frmTimKiemSV.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\frmTimKiemSV.cs",
+              "RelativeToolTip": "Lab04\\frmTimKiemSV.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAUwIsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:27:28.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTimKiemSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\frmTimKiemSV.cs",
+              "RelativeDocumentMoniker": "Lab04\\frmTimKiemSV.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\frmTimKiemSV.cs [Design]",
+              "RelativeToolTip": "Lab04\\frmTimKiemSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:27:07.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmFaculty.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\frmFaculty.cs",
+              "RelativeDocumentMoniker": "Lab04\\frmFaculty.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\frmFaculty.cs",
+              "RelativeToolTip": "Lab04\\frmFaculty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:10:57.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmFaculty.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\frmFaculty.cs",
+              "RelativeDocumentMoniker": "Lab04\\frmFaculty.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\frmFaculty.cs [Design]",
+              "RelativeToolTip": "Lab04\\frmFaculty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:04:23.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\Form1.resx",
+              "RelativeDocumentMoniker": "Lab04\\Form1.resx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\Form1.resx",
+              "RelativeToolTip": "Lab04\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-16T06:31:28.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab04\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab04\\Form1.Designer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T06:29:27.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab04\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\Form1.cs",
+              "RelativeToolTip": "Lab04\\Form1.cs",
+              "ViewState": "AQIAAG8BAAAAAAAAAAAUwIgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T06:28:55.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab04\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab04\\Lab04\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab04\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T06:02:28.054Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\Administrator\source\repos\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Users\Administrator\source\repos\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\Administrator\source\repos\Lab04\Lab04\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Lab04\Lab04\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Lab04\Lab04\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Lab04\Lab04\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab04\Lab04\obj\Debug\Lab04.Form1.resources
+C:\Users\Administrator\source\repos\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.Up2Date
+C:\Users\Administrator\source\repos\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\Administrator\source\repos\Lab04\Lab04\obj\Debug\Lab04.pdb
+C:\Users\Administrator\source\repos\Lab04\Lab04\obj\Debug\Lab04.frmFaculty.resources
+C:\Users\Administrator\source\repos\Lab04\Lab04\obj\Debug\Lab04.frmTimKiemSV.resources
